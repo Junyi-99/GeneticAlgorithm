@@ -1,0 +1,6 @@
+﻿  遗传算法.cpp
+c:\users\junyi\documents\visual studio 2015\projects\遗传算法\遗传算法\chromosome.h(20): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+c:\users\junyi\documents\visual studio 2015\projects\遗传算法\遗传算法\chromosome.h(106): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\users\junyi\documents\visual studio 2015\projects\遗传算法\遗传算法\遗传算法.cpp(34): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  遗传算法.vcxproj -> C:\Users\Junyi\documents\visual studio 2015\Projects\遗传算法\Debug\遗传算法.exe
+  遗传算法.vcxproj -> C:\Users\Junyi\documents\visual studio 2015\Projects\遗传算法\Debug\遗传算法.pdb (Full PDB)
